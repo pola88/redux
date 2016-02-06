@@ -1,0 +1,7 @@
+dump.rdb
+*.hot-update.js*
+/node_modules
+npm-debug.log
+.DS_Store
+/*.env
+public/assets/*bundle*
